@@ -115,7 +115,7 @@ body {
   left: 0;
   right: 0;
   bottom: 0;
-  background-image: url("../public/bg.webp");
+  background-image: url("bg9.jpg");
   background-repeat: no-repeat;
   z-index: -1;
   filter: blur(5px);
@@ -590,7 +590,7 @@ a:hover.kitsuba_bug_hunter_tooltip::after {
 
 @media (width <=640px) {
   .kitsuba_bug_hunter_container::before {
-    background-image: url("../kbh/bg9.jpg");
+    background-image: url("bg9.jpg");
     margin: -2px;
     filter: blur(2px);
     background-color: rgba(0, 0, 0, .5);
